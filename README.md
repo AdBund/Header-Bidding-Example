@@ -1,6 +1,6 @@
 # Header-Bidding-Example
 AdBund header bidding example
-<code>
+,,,
 <!doctype html>
 <html>
 	<head>
@@ -107,4 +107,4 @@ AdBund header bidding example
 		</div>
 	</body>
 </html>
-</code>
+,,,
