@@ -18,7 +18,7 @@
 					{
 						bidder: 'adbund',
 						params: {
-							sid: '110238',//please change to your sid,get this code from:http://www.adbund.com
+							sid: '110238',//please change it to your sid,get this code from:http://www.adbund.com
 							bidfloor: 0.036
 						}
 					},
